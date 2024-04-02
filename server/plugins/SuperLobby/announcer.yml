@@ -1,0 +1,63 @@
+
+message:
+  enable: true
+  interval: 400
+  list:
+    message1:
+    - '&6&l&m>-----------------------------------------<'
+    - '&e&l>&e&l> &6Welcome to our server The Cheeseburger SMP!:'
+    - '&6&l&m>-----------------------------------------<'
+    message2:
+    - '&6&l&m>-----------------------------------------<'
+    - '&e&l>&e&l> &6Enjoy playing and be sure to check out all our worlds.'
+    - '&6&l&m>-----------------------------------------<'
+    message3:
+    - '&6&l&m>-----------------------------------------<'
+    - '&e&l>&e&l> &6Buy ranks or get annoucements at:'
+    - '&e&l>&e&l> &6https://cheeseburgersmp.lol'
+    - '&6&l&m>-----------------------------------------<'
+    message4:
+    - '&6&l&m>-----------------------------------------<'
+    - '&e&l>&e&l> &6Join the discord at:'
+    - '&e&l>&e&l> &6https://discord.gg/NRk2Yy874Z'
+    - '&6&l&m>-----------------------------------------<'
+titles:
+  enable: true
+  interval: 500
+  list:
+    titles1:
+      fadein: 20
+      stay: 50
+      fadeout: 10
+      title: '&6&lCheeseburger SMP!'
+      subtitle: '&6The best server for eaglercraft at school.'
+    titles2:
+      fadein: 20
+      stay: 50
+      fadeout: 10
+      title: '&bOfficial server.'
+      subtitle: '&bhttps://cheeseburgersmp.lol'
+bossbar:
+  enable: true
+  interval: 200
+  list:
+    bossbar1:
+      color: RED
+      style: NOTCHED_20
+      seconds: 10
+      message: '&bcheeseburgersmp.lol'
+    bossbar2:
+      color: PURPLE
+      style: NOTCHED_20
+      seconds: 10
+      message: '&6&lCheeseburger SMP'
+actionbar:
+  enable: true
+  interval: 300
+  list:
+    actionbar1:
+      stay: 50
+      message: '&play.cheeseburgersmp.lol:8081'
+    actionbar2:
+      stay: 50
+      message: '&6&lEnjoy Playing!'

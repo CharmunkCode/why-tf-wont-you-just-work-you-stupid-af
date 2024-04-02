@@ -1,0 +1,7 @@
+Portals:
+  lobby:
+    Bungee Target: glass
+    Coords:
+    - world,-319,8,-23
+    - world,-319,7,-23
+    Type: BUNGEE

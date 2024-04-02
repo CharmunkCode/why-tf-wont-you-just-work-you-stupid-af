@@ -1,0 +1,20 @@
+[
+  {
+    "uuid": "349c9999-9c4a-3d11-ac49-b859d112bf9e",
+    "name": "Feathery",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "ed29d03b-f01b-39dd-ab82-ac3b54f2c88b",
+    "name": "Char",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "f3d28cb0-7225-3cb1-baeb-2dadd2be89ae",
+    "name": "Tester",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

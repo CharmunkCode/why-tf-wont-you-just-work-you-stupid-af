@@ -1,0 +1,56 @@
+
+settings-enable: true
+settings-update-title: 3
+settings-world:
+- world
+- lobby
+- hub
+settings-title:
+- '&7< &6&lCheeseburger SMP &7>'
+- '&7< &6&lCheeseburger SM &7>'
+- '&7< &6&lCheeseburger S &7>'
+- '&7< &6&lCheeseburger  &7>'
+- '&7< &6&lCheeseburge &7>'
+- '&7< &6&lCheeseburg &7>'
+- '&7< &6&lCheesebur&7>'
+- '&7< &6&lCheesebu&7>'
+- '&7< &6&lCheeseb&7>'
+- '&7< &6&lCheese &7>'
+- '&7< &6&lChee&7>'
+- '&7< &6&lCh &7>'
+- '&7< &6&lC &7>'
+
+board:
+  line1:
+    content:
+    - ' '
+    update: 1000
+  line2:
+    content:
+    - '&a&lName: &7<player>'
+    update: 120
+  line3:
+    content:
+    - '                    '
+    update: 1000
+  line4:
+    content:
+    - '&a&lRank: &7User '
+    update: 1000
+  line5:
+    content:
+    - ' '
+    update: 1000
+  line6:
+    content:
+    - '&a&lCoins: &70 '
+    update: 1000
+  line7:
+    content:
+    - ' '
+    update: 1000
+  line8:
+    content:
+    - 'buy ranks at cheeseburgersmp.lol'
+ 
+    update: 10
